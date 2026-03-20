@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+openpyxl
+pyarrow
+joblib
+tqdm
+pyyaml
+flask
+tensorflow
