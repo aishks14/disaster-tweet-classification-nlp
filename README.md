@@ -43,10 +43,10 @@ Social media platforms like Twitter are flooded with information during disaster
 
 | Tweet | Label |
 |---|---|
-| `"Wildfire spreads across 1000 acres in California"` | ✅ Real Disaster |
-| `"That presentation was absolutely fire 🔥"` | ❌ Not a Disaster |
-| `"Flood warning issued for coastal areas"` | ✅ Real Disaster |
-| `"I'm flooded with work this week"` | ❌ Not a Disaster |
+| `"Wildfire spreads across 1000 acres in California"` | Real Disaster |
+| `"That presentation was absolutely fire "` | Not a Disaster |
+| `"Flood warning issued for coastal areas"` | Real Disaster |
+| `"I'm flooded with work this week"` | Not a Disaster |
 
 **Objectives:**
 - Build a model that predicts whether a tweet is about a real disaster
@@ -107,7 +107,9 @@ disaster-tweet-classification/
 │   ├── final_model_evaluation.log
 │   └── deployment.log
 │
-└── README.md
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 ---
