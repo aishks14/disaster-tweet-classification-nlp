@@ -270,7 +270,7 @@ python -c "import nltk; nltk.download('stopwords'); nltk.download('punkt')"
 
 ### 5. Place the dataset
 
-Download the dataset from [Kaggle — NLP Getting Started](https://www.kaggle.com/competitions/nlp-getting-started) and place it at:
+Dataset is placed at:
 
 ```
 data/twitter_disaster.csv
@@ -451,7 +451,7 @@ All pipeline steps write structured logs to the `logs/` directory:
 
 ## Dataset
 
-This project uses the **[NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)** dataset from Kaggle.
+The dataset information is as below, which is an online reference.
 
 | Property | Value |
 |---|---|
